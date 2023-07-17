@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**FujiwaraAzusa/FujiwaraAzusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2/>こんばんわ、さようなら。見なくて結構です。
+<h3/>自己紹介することは皆無　ははっ
+<br><br>
+<h3/>今取り組んでいること。
+<ul>
+  <li>学内の中規模webサービス</li>
+  <li>High Level Millitary mod forge 1.12.2 Minecraft (元高度軍事システムmod)の開発</li>
+</ul>
+<br>
+<h3>HLM(高度軍事mod)の概要</h3>
+<p>ざっくり言えばマイクラによりリアルなMChelimodとより実用的で高度なASMの追加</p>
+<p>普通に言えば、マイクラ1.12.2に航空機,陸上車両,システム系(イージスシステム),固定・艦載砲,ミサイル等をマイクラに追加する</p>
+<p>それ以上でもそれ以下でもない</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FujiwaraAzusa&layout=compact&theme=dar">
+<img src="https://github-readme-stats.vercel.app/api?username=FujiwaraAzusa&theme=dark">
